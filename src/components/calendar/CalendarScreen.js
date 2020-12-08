@@ -70,7 +70,7 @@ export const CalendarScreen = () => {
   }
 
   return (
-    <div>
+    <div className="calendar-screen">
       <Navbar />
       <Calendar
         localizer={localizer}

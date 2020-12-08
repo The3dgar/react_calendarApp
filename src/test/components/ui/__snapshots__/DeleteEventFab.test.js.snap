@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing in <DeleteEventFab/> should snap correctly 1`] = `
+<button
+  className="btn btn-danger fab-danger"
+  onClick={[Function]}
+>
+  <i
+    className="fas fa-trash"
+  />
+</button>
+`;
